@@ -5,7 +5,7 @@
             "request": "launch",
             "name": "Launch Program",
             "type": "pwa-node",
-            "program": "${workspaceFolder}/2021/5/index.ts",
+            "program": "${workspaceFolder}/2021/6/index.ts",
             "cwd": "${workspaceFolder}",
             "runtimeExecutable": "deno",
             "runtimeArgs": [
